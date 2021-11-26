@@ -1,7 +1,19 @@
 # technojam-task--DSA-CP-
 
-Hi! My name is Talal Zaffar and I'm a first year student in GU.
+A bit about myself:-
 
+Hi! My name is Talal Zaffar and I'm a first year student in GU.
+I am passionate about tech and I love to code. The reason of why I wanna join TechnoJam is I'm looking for like minded people with whom I can, just, talk to I guess. 
+Don't know if it's just my bad luck, but I haven't been able to find anyone who shares my interests in my class since joining. Kinda ironic considering we're doing a CS course, but that's another story in itself. There's still a lot I need to learn and a lot I want to learn. And I'm sure being a part of TechnoJam will give me the chance to learn a lot from the members. 
+
+Below is my attempt to write about my approach and algorithms of the programs. To be honest, I did have to look up stuff online as I was finding it pretty challenging to do these on my own. Being a first year student, who's barely come to grips with the languages, these questions were honestly not very easy IMO. 
+I've tried my level best to do them all by myself, but I'd be lying if I said I did.
+
+
+************************-----------**************************------------***************************
+
+
+Approach and Algorithms of the problems:-
 
 #easy_task_1 
 
@@ -24,8 +36,6 @@ Had to look up how to accesss the last element of the list, which can be done by
 
 #easy_task_5
 
-
-
 #medium_task_1
 
 Initialized the width of the container as 'l' and 'r' between the index of the two lines to begin with. The area of the required container would be in the form of a rectangle, so to find it, initialized a while loop with the condition that the height of the figure should be the minimum of the two lines from either end. 
@@ -40,7 +50,10 @@ The entire code is based on that principle, which states that the multiples of p
 
 #medium_task_3
 
-Honestly, found this way out off my league at the moment. I might revisit it once someone explains it to me.
+Honestly, found this way out off my league at the moment. 
+I might revisit it once someone explains it to me!
+
+
 
 
 
